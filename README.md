@@ -14,8 +14,8 @@
  ##
 
 <div display="flex">
-<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomagalha&show_icons=true&theme=radical">
-<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomagalha&layout=compact&theme=radical">
+<img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermemiranda&show_icons=true&theme=radical">
+<img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermemiranda&layout=compact&theme=radical">
 </div>
 <br> 
 <div align="center" style="display: inline_block"><br>
