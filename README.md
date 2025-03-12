@@ -4,7 +4,7 @@
 
 ##
 
-- 🏫 Atualmente estou no 4° semestre de SIS
+- 🏫 Atualmente estou no 5° semestre de SIS
 - 📘 Aprendendo Figma UI/UX design, C# e WebForms
 - 💼 Estou em busca de um estágio na área de desenvolvimento
 - 💬 Tenho o sonho de virar um desenvolvedor web
